@@ -1,16 +1,18 @@
-# 代码有修改
-生成蓝噪音样本点确保生成点的合理性
+# 交通规划课程
 
-节点之间根据距离生成边并限制边的条数，减少交叉
+## 资源
+Python实现的交通分配算法
+https://github.com/megacell/python-traffic-assignment
 
-点数量增加为20个
+## 课程项目提交说明
 
-# 效果预览
-![image](https://github.com/user-attachments/assets/171a8961-57e6-408f-9488-19184e2764d4)
-![image](https://github.com/user-attachments/assets/dfa995e1-a172-4e4c-9891-51816cc5ce21)
-
-# 小组成员及贡献
-- 黄鹏叡 2022091201025，贡献度50%，迭代算法，可视化算法
-- 魏诗雨 2022091201021，贡献度50%，蓝噪声样本生成，代码调试
-
+- 注册Github账号
+- 分支（fork）本仓库
+- 将仓库克隆（clone）到本地
+- 在本地克隆目录中`projects/`子目录下新建一个目录，
+- 在新建目录中编码及调试
+- 为代码创建README文件，写明项目情况、小组成员及成员分工
+- 为代码创建commit
+- 在Github管理页面中发起PR（Pull Request）
+- 等待合并
 
